@@ -1,2 +1,2 @@
-# HTML_practice
-HTML 공부 레포지토리!
+# HTML_CSS practice
+HTML CSS 공부 레포지토리!
